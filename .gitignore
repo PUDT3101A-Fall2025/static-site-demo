@@ -1,7 +1,3 @@
 node_modules
 _site
-<<<<<<< HEAD
 package-lock.json
-=======
-package-lock.json
->>>>>>> 74051aa4a073e2208381bd48ed3860b05601be28

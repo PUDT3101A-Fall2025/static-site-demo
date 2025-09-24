@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "This is a demo of using the Eleventy site generator to build a static site. We'll use this in class as a template project for experimentation.",
   "main": "index.js",
-  "dependencies": {
-    "@11ty/eleventy": "^3.1.2"
-  },
   "scripts": {
     "build": "eleventy --input=source",
     "serve": "eleventy --serve --input=source",

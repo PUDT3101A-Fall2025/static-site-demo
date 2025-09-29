@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "This is a demo of using the Eleventy site generator to build a static site. We'll use this in class as a template project for experimentation.",
   "main": "index.js",
-  "dependencies": {
-    "@11ty/eleventy": "^3.1.2"
-  },
   "scripts": {
     "build": "eleventy --input=source",
     "serve": "eleventy --serve --input=source",
+    "servePort": "eleventy --serve --input=source --port=9000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/PUDT3101A-Fall2025/static-site-demo/issues"
   },
-  "homepage": "https://github.com/PUDT3101A-Fall2025/static-site-demo#readme"
+  "homepage": "https://github.com/PUDT3101A-Fall2025/static-site-demo#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
 }

@@ -1,12 +1,13 @@
 ---
 name: Minjung
 age: 21
-picture:![how I feel like]()
+picture: /source/images/profile.jpg
+alt: How I feel like..
 color: #4e79f1ff
 guilty-pleasure: spending alone time at 4am
 ---
 
-# Minjung's Profiile
+# Minjung's Profile
 
 Hi, this is Minjung Cho, a Design Technology student in The New School Parsons School of Design
 

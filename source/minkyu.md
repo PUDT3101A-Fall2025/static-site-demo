@@ -15,8 +15,26 @@ guilty-pleasure: Teasing my gf's cat with food when he is hungy
 <img src= "https://i.ibb.co/TxkrzYD0/IMG-2521.jpg" width=200>
 <img src= "https://i.ibb.co/4Z1YR7JH/IMG-2517.jpg" width=200>
 
-- Age: 27, Oct 25th 1997
+
+| Content | Description |
+| ----------- | ----------- |
+| Name | Minkyu Kim |
+| Age | 27, Oct 25th 1997 |
+| Color: | #080808 (it's 8% black) |
+| Guilty Pleasure | Teasing my gf's cat with food when he is hungry|
+
+<!-- - Age: 27, Oct 25th 1997
 - Favorite color: #080808 (it's 8% black)
-- Guilty-Pleasure: Teasing my gf's cat with food when he is hungry
+- Guilty-Pleasure: Teasing my gf's cat with food when he is hungry -->
+
+
 
 [Gotta rebuild this](http://allkustom.net)
+
+
+### Add this script to 'package.json' for open the server in a specific port
+` 
+"scripts": {
+    "servePort": "eleventy --serve --input=source --port=9000"
+  }
+`

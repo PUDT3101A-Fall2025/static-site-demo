@@ -8,8 +8,12 @@ guilty-pleasure: Teasing my gf's cat with food when he is hungy
 ---
 
 # Minkyu Kim's Profile
+<!-- ![testImage](./sampleImage.png) -->
+![catHappy](https://i.ibb.co/p6PyR6hV/IMG-3958.jpg)
+<img src= "https://i.ibb.co/p6PyR6hV/IMG-3958.jpg" width=200>
+
 - Age: 27, Oct 25th 1997
 - Favorite color: #080808 (it's 8% black)
 - Guilty-Pleasure: Teasing my gf's cat with food when he is hungry
 
-[Gotta rebuild this shit](http://allkustom.net)
+[Gotta rebuild this](http://allkustom.net)

@@ -3,15 +3,25 @@ name: Isabella
 
 age: 20
 
-picture: https://www.google.com/url?sa=i&url=https%3A%2F%2Faquaforest.eu%2Fen%2Fknowledge-base%2F10-colorful-reef-fish-dive-into-the-beauty-of-the-reef-animals-not-just-in-the-ocean%2F&psig=AOvVaw34E9bqdJoQTl0nAePWXSl5&ust=1758839352444000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCODd36i58o8DFQAAAAAdAAAAABAE
+picture: 
 
 color: #4C385C
 
 guilty-pleasure: side questing when i KNOW i have responsibilities i need to do...
 
 ---
+# hi hi this is isa!
+
+## i am {age} years old according to my birth certificate i suppose... but physically and mentally i feel like i am 28...
 
 
-# Isa's profile!
+## this is fish and fish is i
+{picture}
+
+## i like colors :D but i am partial to cooler tones
+
+
+
+## my guilty pleasure is...: {guilty-pleasure}
 
 

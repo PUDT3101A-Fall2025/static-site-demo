@@ -1,7 +1,7 @@
 ---
 name: Arav 
 age: 20
-picture: 
+picture: |
       ////^\\\\
       | ^   ^ |
      @ (o) (o) @

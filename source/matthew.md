@@ -1,9 +1,9 @@
 ---
 name: Matthew Kaney
 age: 36
-picture: https://avatars.githubusercontent.com/u/911429?v=4
-color: #f26c37
+color: "#f26c37"
 guilty-pleasure: Milkshakes
+layout: profile.html
 ---
 
 # Matthew's Profile

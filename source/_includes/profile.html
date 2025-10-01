@@ -1,0 +1,10 @@
+---
+layout: base.html
+---
+
+{% if picture %}
+<img class="profile" src="{{ picture }}" style="border-color: {{ color }}" />
+{% else %}
+<img class="profile" src="/fish.jpg" style="border-color: {{ color }}" />
+{% endif %}
+<div>{{ content }}</div>
